@@ -17,3 +17,4 @@ To view and interact with the PowerBI report, follow these steps:
    git clone https://github.com/Bhawneet1/PowerBI_dashboard.git
    ```
 **Screenshot**
+1.png
